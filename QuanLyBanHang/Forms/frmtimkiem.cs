@@ -90,5 +90,10 @@ namespace QuanLyBanHang.Forms
             cBox_CongSuat.DisplayMember = "TenNhanVien";
             cBox_CongSuat.ValueMember = "MaNhanVien";
         }
+
+        private void btn_Timkiem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -100,6 +100,7 @@
             this.btn_Timkiem.TabIndex = 9;
             this.btn_Timkiem.Text = "Tư vấn";
             this.btn_Timkiem.UseVisualStyleBackColor = true;
+            this.btn_Timkiem.Click += new System.EventHandler(this.btn_Timkiem_Click);
             // 
             // btn_Thoat
             // 
